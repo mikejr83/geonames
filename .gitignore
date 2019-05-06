@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# Dist
+dist/
+
+# Exports
+dump/
+
+*.txt
+*.sql
+*.7z
